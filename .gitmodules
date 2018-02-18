@@ -1,3 +1,6 @@
 [submodule "textbook/code/Runnerly/microservice"]
 	path = textbook/code/Runnerly/microservice
 	url = https://github.com/Runnerly/microservice.git
+[submodule "textbook/code/Runnerly/flakon"]
+	path = textbook/code/Runnerly/flakon
+	url = https://github.com/Runnerly/flakon.git
